@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="22835" started-at="2021-04-11T08:22:37Z" finished-at="2021-04-11T08:23:00Z">
+  <suite name="Default suite" duration-ms="29596" started-at="2021-04-12T04:05:59Z" finished-at="2021-04-12T04:06:29Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="22835" started-at="2021-04-11T08:22:37Z" finished-at="2021-04-11T08:23:00Z">
+    <test name="Default test" duration-ms="29596" started-at="2021-04-12T04:05:59Z" finished-at="2021-04-12T04:06:29Z">
       <class name="com.actitime.testscripts.Test">
-        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.actitime.testscripts.Test@71423665]" name="openBrowser" is-config="true" duration-ms="2508" started-at="2021-04-11T08:22:37Z" finished-at="2021-04-11T08:22:40Z">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.actitime.testscripts.Test@71423665]" name="openBrowser" is-config="true" duration-ms="2450" started-at="2021-04-12T04:05:59Z" finished-at="2021-04-12T04:06:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method status="PASS" signature="login()[pri:0, instance:com.actitime.testscripts.Test@71423665]" name="login" is-config="true" duration-ms="9583" started-at="2021-04-11T08:22:40Z" finished-at="2021-04-11T08:22:50Z">
+        <test-method status="PASS" signature="login()[pri:0, instance:com.actitime.testscripts.Test@71423665]" name="login" is-config="true" duration-ms="12924" started-at="2021-04-12T04:06:02Z" finished-at="2021-04-12T04:06:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.actitime.testscripts.Test@71423665]" name="test1" duration-ms="8480" started-at="2021-04-11T08:22:50Z" finished-at="2021-04-11T08:22:58Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.actitime.testscripts.Test@71423665]" name="test1" duration-ms="11455" started-at="2021-04-12T04:06:15Z" finished-at="2021-04-12T04:06:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="logout()[pri:0, instance:com.actitime.testscripts.Test@71423665]" name="logout" is-config="true" duration-ms="1727" started-at="2021-04-11T08:22:58Z" finished-at="2021-04-11T08:23:00Z">
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.actitime.testscripts.Test@71423665]" name="logout" is-config="true" duration-ms="2269" started-at="2021-04-12T04:06:26Z" finished-at="2021-04-12T04:06:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logout -->
-        <test-method status="PASS" signature="close()[pri:0, instance:com.actitime.testscripts.Test@71423665]" name="close" is-config="true" duration-ms="484" started-at="2021-04-11T08:23:00Z" finished-at="2021-04-11T08:23:00Z">
+        <test-method status="PASS" signature="close()[pri:0, instance:com.actitime.testscripts.Test@71423665]" name="close" is-config="true" duration-ms="443" started-at="2021-04-12T04:06:28Z" finished-at="2021-04-12T04:06:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
